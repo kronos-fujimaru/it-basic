@@ -50,7 +50,9 @@
 
 ### 演習9
 
-ASCIIコード表を参考に「Hello World! 2020」を10進数の数値で表現しなさい。
+ASCIIコード表を参考に「Hello World! 2022」を10進数の数値で表現しなさい。
+
+> ASCIIコード表：https://www.k-cube.co.jp/wakaba/server/ascii_code.html
 
 <br>
 
